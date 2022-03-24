@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Trevor.
 - 👀 I’m interested in Data Analytics, charity work, and social sciences.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and R.
 - 📫 You can reach me on my LinkedIn https://www.linkedin.com/in/trevor-l
